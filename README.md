@@ -1,4 +1,4 @@
-boughspot.com
+ivan.ayitey.me
 =============
 
-Our website
+Personal Website for Ivan Ayitey
